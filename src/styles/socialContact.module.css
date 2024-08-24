@@ -1,0 +1,65 @@
+.socialContact{ 
+    display:flex; 
+    gap:15px
+}  
+.socialContact > a { 
+    cursor:pointer; 
+    transition:all .3s linear;
+    width:40px; 
+    height:40px; 
+    border-radius:50%; 
+    display:flex;
+     
+    align-items:center;
+    justify-content:center;
+}
+.yo{ 
+  background:#eb3223;
+  color:white;
+} 
+.yo:hover{ 
+    background:#fff; 
+    color:#eb3223;
+}
+.fa{ 
+    background:#4968ad;
+    color:white;
+  } 
+  .fa:hover{ 
+      background:#fff; 
+      color:#4968ad;
+  }
+  .tw{ 
+    background:#000;
+    color:white;
+  } 
+  .tw:hover{ 
+      background:#fff; 
+      color:#000;
+  }
+
+
+  .li{ 
+    background:#4968ad;
+    color:white;
+  } 
+  .li:hover{ 
+      background:#fff; 
+      color:#4968ad;
+  }
+  .gi{ 
+    background:#000;
+    color:white;
+  } 
+  .gi:hover{ 
+      background:#fff; 
+      color:#000;
+  }
+  .wh{ 
+    color:#25d366;
+    background:white;
+  } 
+  .wh:hover{ 
+      color:#fff; 
+      background:#25d366;
+  }
